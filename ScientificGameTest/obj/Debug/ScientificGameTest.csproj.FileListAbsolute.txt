@@ -1,0 +1,6 @@
+C:\Users\Son Vu\Documents\PROJECT\JOB_TEST\ScientificGameTest\ScientificGameTest\bin\Debug\ScientificGameTest.exe.config
+C:\Users\Son Vu\Documents\PROJECT\JOB_TEST\ScientificGameTest\ScientificGameTest\bin\Debug\ScientificGameTest.exe
+C:\Users\Son Vu\Documents\PROJECT\JOB_TEST\ScientificGameTest\ScientificGameTest\bin\Debug\ScientificGameTest.pdb
+C:\Users\Son Vu\Documents\PROJECT\JOB_TEST\ScientificGameTest\ScientificGameTest\obj\Debug\ScientificGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Son Vu\Documents\PROJECT\JOB_TEST\ScientificGameTest\ScientificGameTest\obj\Debug\ScientificGameTest.exe
+C:\Users\Son Vu\Documents\PROJECT\JOB_TEST\ScientificGameTest\ScientificGameTest\obj\Debug\ScientificGameTest.pdb
