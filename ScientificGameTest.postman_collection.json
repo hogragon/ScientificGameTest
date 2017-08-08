@@ -1,0 +1,67 @@
+{
+	"id": "6e5723b4-7626-877c-e631-e12cf5cad6bf",
+	"name": "ScientificGameTest",
+	"description": "",
+	"order": [
+		"fa309a4b-06dc-a7f2-fa07-971910c799a0"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1502204731573,
+	"owner": "2048560",
+	"public": false,
+	"requests": [
+		{
+			"id": "fa309a4b-06dc-a7f2-fa07-971910c799a0",
+			"headers": "",
+			"headerData": [],
+			"url": "localhost/testapp/",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "6e5723b4-7626-877c-e631-e12cf5cad6bf",
+			"data": [
+				{
+					"key": "playerid",
+					"value": "9",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "salt",
+					"value": "$2y$10$l5Ffv0N9r7wszc67BBYldeH4gCXv57w0E4dr/ZafHwnGpToBO8AjK",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "coins_won",
+					"value": "10",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "coins_bet",
+					"value": "2",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"name": "localhost/testapp/",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1502204737327,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
